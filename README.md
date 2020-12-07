@@ -1,1 +1,3 @@
-# Novel_author_classification
+#Text Classfication tutorial
+
+- environment : Colab
